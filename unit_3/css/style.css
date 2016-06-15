@@ -1,0 +1,16 @@
+h1{
+font-weight: bold;
+font-size: 36px;}
+
+h2{font-style: italic;}
+
+hr{width: 500px;}
+
+body{
+text-align: center;
+background: url("file:///Users/juliefabrizio/Desktop/jewls1331.github.io/unit_3/images/southernutah.jpg");
+color: #fff;
+background-size: cover;}
+
+ul{text-align: center;
+list-style-type: none;}
