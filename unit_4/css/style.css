@@ -1,0 +1,30 @@
+
+@import url(https://fonts.googleapis.com/css?family=Libre+Baskerville);
+@import url(https://fonts.googleapis.com/css?family=Assistant);
+
+body{
+text-align: center;
+background: url("../images/southernutah.jpg");
+color: #fff;
+background-size: cover;
+}
+
+h1{
+font-weight: bold;
+font-size: 36px
+font-family: 'Libre Baskerville', serif;
+}
+
+h2{
+font-family: 'Libre Baskerville', serif;
+font-style: italic;
+}
+
+p{
+font-family:'Assistant', sans-serif;
+}
+
+ul{
+font-family:'Assistant', sans-serif;
+text-align: center;
+list-style-type: none;}
