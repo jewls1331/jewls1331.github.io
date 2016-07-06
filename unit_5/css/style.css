@@ -1,0 +1,93 @@
+
+@import url(https://fonts.googleapis.com/css?family=Libre+Baskerville);
+@import url(https://fonts.googleapis.com/css?family=Assistant);
+
+#wrapper{
+width: 960px;
+}
+
+body{
+text-align: center;
+color: black;
+}
+
+nav{
+background-color: #E8C66A;
+}
+
+#menu li{
+display: inline;
+padding: 30px;
+}
+
+header{
+background-color: #FFED74;
+border: 1px black solid;
+padding: 20px;
+height: 600px;
+background-image: url("../images/southernutah.jpg");
+background-repeat: no-repeat;
+background-size: contain;
+background-position: center;
+}
+
+
+section{
+background-color: #FFC675;
+display: inline-block;
+float: left;
+}
+
+#one, #two, #three{
+	width: 30%;
+	float: left;
+	display: inline-block;
+	padding: 10px;
+	border: 1px black solid;
+}
+
+#one img{
+	max-height: 100%;
+	max-width: 100%;
+	margin: auto;
+	display: block;
+}
+
+#two img{
+	max-height: 100%;
+	max-width: 100%;
+	margin: auto;
+	display: block;
+}
+
+#three img{
+	max-height: 100%;
+	max-width: 100%;
+	margin: auto;
+	display: block;
+}
+
+#description {
+background-color: #E89C6C;
+border: 1px black solid;
+}
+
+footer{
+background-color: #FF957E;
+}
+
+
+h1{
+font-weight: bold;
+font-size: 40px
+font-family: 'Libre Baskerville', serif;
+}
+
+h2{
+font-family: 'Libre Baskerville', serif;
+font-size: 26px;
+}
+
+p{
+font-family:'Assistant', sans-serif;
+}
