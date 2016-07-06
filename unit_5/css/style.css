@@ -67,6 +67,12 @@ float: left;
 	display: block;
 }
 
+hr {
+	width: 100%;
+	height: 1px;
+	background: #fff;
+}
+
 #description {
 background-color: #E89C6C;
 border: 1px black solid;
